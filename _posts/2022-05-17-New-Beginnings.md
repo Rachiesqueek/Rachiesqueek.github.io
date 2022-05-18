@@ -1,6 +1,3 @@
----
-tags: other
----
 
 **I graduated from UNT!**
 
